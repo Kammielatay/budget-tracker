@@ -9,7 +9,6 @@ The user will be able to add expenses and deposit to their budget with or withou
 Check out the deployed app [here](https://secret-mesa-66183.herokuapp.com/)!
 
 ![GitHub top language](https://img.shields.io/github/languages/top/kammielatay/budget-tracker)
-![GitHub last commit](https://img.shields.io/github/last-commit/Kammielatay/budget-tracker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents:
@@ -28,6 +27,10 @@ Check out the deployed app [here](https://secret-mesa-66183.herokuapp.com/)!
     ```
 
 2) Open folder in your editor of choice (VSC, Sublime, etc.) 
+
+or 
+
+3) [Click here](https://secret-mesa-66183.herokuapp.com/) to use the deployed app
 
 ## Usage
 ![Heroku Demo](img/budget-tracker.png)
